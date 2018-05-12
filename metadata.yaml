@@ -1,0 +1,38 @@
+_repo: The-Rival-Submarines_40866
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Williams, C. Fleming
+    gutenberg_agent_id: '41657'
+    url: http://www.gutenberg.org/2009/agents/41657
+covers:
+- cover_type: archival
+  image_path: 40866-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: Renowned action-adventure author Percy F. Westerman gained his knowledge
+  of nautical warfare the hard way -- through two stints of service in the Royal Navy.
+  He later turned his experience on the high seas into a series of gripping thrillers
+  that has captivated generations of readers young and old alike. The Rival Submarines
+  is full of the kind of edge-of-your-seat excitement that propelled Westerman to
+  the top of the bestseller list in his era.
+gutenberg_issued: '2013-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40866'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PZ'
+- !lcsh 'Submarines (Ships) -- Juvenile fiction'
+title: The Rival Submarines
+url: http://www.gutenberg.org/ebooks/40866
